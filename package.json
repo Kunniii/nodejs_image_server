@@ -1,0 +1,12 @@
+{
+  "name": "nodejs_image_server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Kunniii/nodejs_image_server.git",
+  "author": "Kunniii <nguyenairport56@gmail.com>",
+  "license": "MIT",
+  "packageManager": "yarn@3.4.1",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
